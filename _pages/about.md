@@ -17,13 +17,13 @@ Previously, I worked for several years as a computer science teacher. Prior to w
 
 Research Interests
 ======
-1. Internet of things
-2. AI
+* Internet of things
+* AI
   * Machine learning
   * Deep Learning
   * Computer Vision
-  * NLP
-3. Cybersecurity
+* NLP
+* Cybersecurity
 
 Research Publications
 ======
