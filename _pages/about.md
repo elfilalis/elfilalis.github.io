@@ -65,7 +65,7 @@ What's new?
 
 Experience
 =====
-* Supervising & Co-supervising Theses in the domains of Natural Language Processing (NLP), Artificial Intelligence (AI) with a focus on Machine Learning (ML) and Deep Learning (DL), Internet of Things (IoT), Computer Vision, Blockchain, and Networks.
+* Supervising & Co-supervising Theses in the domains of Natural Language Processing, Artificial Intelligence with a focus on Machine Learning and Deep Learning, Internet of Things, Computer Vision, Blockchain, and Networks.
 * AL KHAWARIZMI Program With CNRST: Prediction of precision therapy via artificial intelligence-assisted radiomics in cancer patients.
 * Academic & Administrative Engagements: Board Member of the FSBM establishment and in charge of promoting scientific research and Technology Transfer at FSBM.
 * Ex-Director of the innovation and technology transfer center at Hassan 2 University Casablanca Campus Ben M'Sik Ain Sbaa.
