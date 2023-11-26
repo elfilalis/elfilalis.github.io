@@ -41,7 +41,12 @@ Research Publications
 * [Emotions recognition as innovative tool for improving students' performance and learning approaches](https://www.sciencedirect.com/science/article/pii/S1877050920317865)
   * Procedia Computer Science (2020).
 
-* [More...](/publications)
+[More...](/publications)
+
+Awards
+======
+* Data-Driven Research Award MENA 
+* 34th International Conference on Microelectronics
 
 Talks
 ======
@@ -52,7 +57,7 @@ Talks
 
 * [The Moroccan city and the need for transformation in the era of the smart city](https://drive.google.com/file/d/1wpPF39CWVEg-QXyMa21XUicffiHEct6H/view?usp=sharing).
 
-* [More...](/talks)
+[More...](/talks)
 
 What's new?
 ======
@@ -60,6 +65,16 @@ What's new?
 * 2023-10-30: Guardians of Science: A Research Security Study Tour with Harvard University.
 * 2023-08-22: Member of the delegation of North African universities in China.
 * 2023-01-23: Winner of the USA IVLP program: Women in Steam Entrepreneurship.
+
+Experience
+=====
+* Supervising & Co-supervising Theses in the domains of Natural Language Processing (NLP), Artificial Intelligence (AI) with a focus on Machine Learning (ML) and Deep Learning (DL), Internet of Things (IoT), Computer Vision, Blockchain, and Networks.
+* AL KHAWARIZMI Program With CNRST: Prediction of precision therapy via artificial intelligence-assisted radiomics in cancer patients.
+* Academic & Administrative Engagements: Board Member of the FSBM establishment and in charge of promoting scientific research and Technology Transfer at FSBM.
+* Ex-Director of the innovation and technology transfer center at Hassan 2 University Casablanca Campus Ben M'Sik Ain Sbaa.
+* Active Member on the PESA Recruitment Committee for the following institutions: FSBM/UH2C, FSJES d'El Jadida/UCD, ENSIAS/UM5, FSAC/UH2C, FS/UM5, and ENCGC/UH2C.
+
+[More...](/cv)
 
 Community work
 ====
