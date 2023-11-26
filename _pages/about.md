@@ -17,11 +17,13 @@ Previously, I worked for several years as a computer science teacher. Prior to w
 
 Research Interests
 ======
-1. IOT
-2. Machine learning
-3. NLP
-4. Deep Learning
-5. Computer Vision
+1. Internet of things
+2. AI
+  * Machine learning
+  * Deep Learning
+  * Computer Vision
+  * NLP
+3. Cybersecurity
 
 Research Publications
 ======
@@ -50,11 +52,27 @@ Talks
 
 * [The Moroccan city and the need for transformation in the era of the smart city](https://drive.google.com/file/d/1wpPF39CWVEg-QXyMa21XUicffiHEct6H/view?usp=sharing).
 
+* [More...](/talks)
 
 What's new?
 ======
 
-* 2023-05-07 [Harvard University](https://www.harvard.edu/): [Cybersecurity for Scientific Research](https://worldwide.harvard.edu/cyber-security-project)
+* 2023-10-30: Guardians of Science: A Research Security Study Tour with Harvard University.
+* 2023-08-22: Member of the delegation of North African universities in China.
+* 2023-01-23: Winner of the USA IVLP program: Women in Steam Entrepreneurship.
+
+Community work
+====
+* Founder & Head
+  * The AI ​​Club and Dev Community FSBM.
+* Ambassador 
+  * The SNAEIA Association.
+* Founder
+  * The FSBM Soft Skills Club.
+* Vice President
+  * The Najm Association.
+* Co-Founder
+  * The ABC Math info Association
 
 Contact
 ------
