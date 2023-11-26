@@ -40,9 +40,6 @@ Publications
 
 Talks
 ======
-  <!-- <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
 * [International Science Day 1st Edition A tandem for an innovative ecosystem](https://drive.google.com/file/d/1Jn6MA2IUP4XY9WXW04t1FjIYcx9h-s4f/view?usp=sharing).
 
 * [University partnerships North Africa - china  Morocco-China case study](https://docs.google.com/presentation/d/1lzRWklawt3FaRmkiNUn7bEPuUSzW2Cpi/edit?usp=sharing&ouid=112245005000782117088&rtpof=true&sd=true).
