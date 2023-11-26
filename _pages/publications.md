@@ -54,4 +54,4 @@ author_profile: true
 
 * [Machine learning for internet of things classification using network traffic parameters](https://ijece.iaescore.com/index.php/IJECE/article/view/28559)
   * Published in International Journal of Electrical and Computer Engineering, 2023.
-    * Authors: Elhaloui,L,. El Filali, S,.Benlahmer, E.H,.Tace,Y,. Rida,N
+    * Authors: Elhaloui,L,. El Filali, S,.Benlahmer, E.H,.Tace,Y,. Rida,N.
