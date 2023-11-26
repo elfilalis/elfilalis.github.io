@@ -42,6 +42,7 @@ Awards
 ======
 * 2nd Prize in the Data-Driven Research Award MENA, 2021.
 * 3rd Prize in the International Conference on Microelectronics (awarded for the third-best research paper), 2022.
+
 [More...](/cv)
 
 Talks
