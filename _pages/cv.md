@@ -11,19 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics specialty electronics (treatment of the information), 2006
+---
+## Education
+* **University Habilitation** in Information Processing, Faculty of Sciences Ben M'Sick, Hassan II University, 2017
+* **Ph.D in Physics** specialty electronics (treatment of the information), Universite de Nice Sophia Antipolis - France, 2006
+* **Master MBDS** (Multimedia, Databases, and Systems Integration), Universite de Nice Sophia Antipolis - France, 2005
+* **DESA** (Advanced Studies Diploma) in Information Processing, Faculty of Sciences Ben M'Sick, Hassan II University, 1999
+* **Bachelor's Degree** in Physics (Electronics option), Faculte des Sciences Ain Chock, Casablanca, 1995
+* **Baccalaureate** in Experimental Sciences, Lycee Ayoubi Sale, 1990
 
-Work experience
-======
-* 2023: Responsible for strengthening scientific research and technology transfer at FSBM/UH2C 2
+---
+## Work experience
+* **Current:** Vice-Dean in charge of Partnerships and Communication, Faculty of Sciences Ben M'Sick, Hassan II University of Casablanca
+* **December 2023 - Present:** Promoted to the rank of Professor of Higher Education (PES), Faculty of Sciences Ben M'Sick, Hassan II University
+* **2022 - Present:** Head of Scientific Research Valorization and Technology Transfer (Responsible for strengthening scientific research and technology transfer) at FSBM / UH2C
+* **2020 - 2021:** Director of the Center for Innovation and Technology Transfer at Hassan II Casablanca University
+* **2020:** Coordinator for the SMI (Mathematics and Computer Science) and MIP (Mathematics, Computer Science and Physics) fields at FSBM / UH2C
+* **2017:** Full Professor (University Habilitation) at FSBM / UH2C
+* **December 2007 - 2017:** Professor at the Faculty of Sciences Ben M'Sick, Hassan II University
+* **Past Term:** Vice-Dean in charge of Scientific Research, Faculty of Sciences Ben M'Sick (FSBM / UH2C)
 
-* 2020-2021: Director of the Center for Innovation and Technology Transfer at Hassan2 Casablanca University.
+---
+## Technical Skills & Teaching Focus
+* **Fields of Interest:** Internet of Things (IoT), Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Cybersecurity, Blockchain.
+* **Teaching Courses:** Internet of Things (IoT), Computer Networks, Machine Learning, C Programming, Databases (PL/SQL, Oracle), Database Administration, Quality of Service.
 
-* 2020: Coordinator for the SMI and MIP fields at FSBM/UH2C 2
-
-* 2017: Full Professor at FSBM/UH2C 2
-
-* 2007: Assistant Professor at FSBM/UH2C 2
+---
+## Institutional & Professional Responsibilities
+* Member of the Faculty Council (FSBM)
+* Member of the Pedagogical Committee
+* Member of the Communication and Information Committee
+* Founder and President of TechHer Morocco (Established March 8, 2026)
+* Mentor of the AI & Dev Community Club & Soft Skills Club
+---
 
 Publications
 ======
