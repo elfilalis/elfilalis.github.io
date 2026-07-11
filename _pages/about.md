@@ -7,23 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-In 2007, I joined the faculty of the Department of Mathematics and Computer Science at Hassan 2 University, Faculty of Science Ben M'Sik. FSB, From 2001 to 2006, I also taught computer Science at EMSI school, From 2002 to 2007, at the same time, I began to help students find internships and even jobs, I made a lot of relationships with companies, which facilitated the professional integration of our students, After completing my Ph.D. in 2006, I continued working at EMSI full-time until the end of 2007. My research interests are Computer Training, the Internet of Things, and Information Processing, more precisely:
-1. The development of decision support algorithms: application in the biomedical field.
-2. Improving and optimizing the performance of wireless communication networks.
-3. The modeling of queue management for telecom networks, and more specifically in optical exchanges.
-For further details, kindly visit my publications [webpage](publications/).
+Professor Sanaa EL FILALI is Vice-Dean in charge of Partnerships and Communication at the Faculty of Sciences Ben M'Sick, Hassan II University of Casablanca. She is a Professor of Higher Education with experience in scientific research valorization, technology transfer, academic leadership, and student mentoring.
 
-Previously, I worked for several years as a computer science teacher. Prior to working in the Department of Mathematics and Computer Science, I completed my Ph.D. in the Department of Physics, and Information Processing at FSB. I was also a student at the same faculty and I liked it so much that I did not want to leave.
+Her background spans teaching, institutional development, and innovation-driven initiatives. She previously served as Director of the Center for Innovation and Technology Transfer and as Head of Scientific Research Valorization and Technology Transfer. Her research interests include the Internet of Things, artificial intelligence, machine learning, natural language processing, computer vision, cybersecurity, and information processing. For selected publications, visit the publications [webpage](publications/).
 
 Research Interests
 ======
-* Internet of things
-* AI
-  * Machine learning
+* Internet of Things
+* Artificial Intelligence
+  * Machine Learning
   * Deep Learning
   * Computer Vision
-* NLP
+* Natural Language Processing
 * Cybersecurity
+* Information Processing
 
 Research Publications
 ======
@@ -41,16 +38,18 @@ Research Publications
 Awards
 ======
 * 2nd Prize in the Data-Driven Research Award MENA, 2021.
-* 3rd Prize in the International Conference on Microelectronics (awarded for the third-best research paper), 2022.
+* 3rd Prize in the International Conference on Microelectronics for the third-best research paper, 2022.
 
 [More...](/cv)
 
 Talks
 ======
 
-* [International Science Day 1st Edition A tandem for an innovative ecosystem](https://drive.google.com/file/d/1Jn6MA2IUP4XY9WXW04t1FjIYcx9h-s4f/view?usp=sharing).
+* **June 5-6, 2024:** Speaker and mentor at GITEX Africa.
+* **May 16, 2024:** Speaker at Digital Innovation Day.
+* [International Science Day 1st Edition: A tandem for an innovative ecosystem](https://drive.google.com/file/d/1Jn6MA2IUP4XY9WXW04t1FjIYcx9h-s4f/view?usp=sharing).
 
-* [University partnerships North Africa - china  Morocco-China case study](https://docs.google.com/presentation/d/1lzRWklawt3FaRmkiNUn7bEPuUSzW2Cpi/edit?usp=sharing&ouid=112245005000782117088&rtpof=true&sd=true).
+* [University partnerships North Africa - China: Morocco-China case study](https://docs.google.com/presentation/d/1lzRWklawt3FaRmkiNUn7bEPuUSzW2Cpi/edit?usp=sharing&ouid=112245005000782117088&rtpof=true&sd=true).
 
 * [The Moroccan city and the need for transformation in the era of the smart city](https://drive.google.com/file/d/1wpPF39CWVEg-QXyMa21XUicffiHEct6H/view?usp=sharing).
 
@@ -59,32 +58,32 @@ Talks
 What's new?
 ======
 
+* 2026-03-08: Founder and President of TechHer Morocco.
+* 2024-05-06 to 2024-05-10: First Prize, DIGINNOV24 International Competition.
+* 2024-03-08: Organizer of International Women's Day event.
+* 2024-06-04: Organizer of Job Days Forum.
+* 2024-05-09: Participant in the China-Morocco cultural exchange event.
 * 2023-10-30: Guardians of Science: A Research Security Study Tour with Harvard University.
 * 2023-08-22: Member of the delegation of North African universities in China.
 * 2023-01-23: Winner of the USA IVLP program: Women in Steam Entrepreneurship.
 
-Experience
+Professional experience
 =====
-* Supervising & Co-supervising Theses in the domains of Natural Language Processing, Artificial Intelligence with a focus on Machine Learning and Deep Learning, Internet of Things, Computer Vision, Blockchain, and Networks.
-* AL KHAWARIZMI Program With CNRST: Prediction of precision therapy via artificial intelligence-assisted radiomics in cancer patients.
-* Academic & Administrative Engagements: Board Member of the FSBM establishment and in charge of promoting scientific research and Technology Transfer at FSBM.
-* Ex-Director of the innovation and technology transfer center at Hassan 2 University Casablanca Campus Ben M'Sik Ain Sbaa.
-* Active Member on the PESA Recruitment Committee for the following institutions: FSBM/UH2C, FSJES d'El Jadida/UCD, ENSIAS/UM5, FSAC/UH2C, FS/UM5, and ENCGC/UH2C.
+* Supervising and co-supervising theses in natural language processing, artificial intelligence, machine learning, deep learning, Internet of Things, computer vision, blockchain, and networks.
+* AL KHAWARIZMI Program with CNRST: prediction of precision therapy via artificial intelligence-assisted radiomics in cancer patients.
+* Board member of FSBM and responsible for promoting scientific research and technology transfer.
+* Former Director of the Innovation and Technology Transfer Center at Hassan II University, Casablanca.
+* Active member of the PESA Recruitment Committee for FSBM/UH2C, FSJES d'El Jadida/UCD, ENSIAS/UM5, FSAC/UH2C, FS/UM5, and ENCGC/UH2C.
 
 [More...](/cv)
 
-Community work
+Community leadership
 ====
-* Founder & Head
-  * The AI ​​Club and Dev Community FSBM.
-* Ambassador 
-  * The SNAEIA Association.
-* Founder
-  * The FSBM Soft Skills Club.
-* Vice President
-  * The Najm Association.
-* Co-Founder
-  * The ABC Math info Association
+* Founder and Head, AI & Dev Community Club, FSBM
+* Ambassador, SNAEIA Association
+* Founder, FSBM Soft Skills Club
+* Vice President, Najm Association
+* Co-Founder, ABC Math Info Association
 
 Contact
 ------

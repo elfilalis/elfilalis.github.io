@@ -21,15 +21,34 @@ Education
 * **Baccalaureate** in Experimental Sciences, Lycee Ayoubi Sale, 1990
 
 ---
-## Work experience
+## Academic and institutional experience
 * **Current:** Vice-Dean in charge of Partnerships and Communication, Faculty of Sciences Ben M'Sick, Hassan II University of Casablanca
-* **December 2023 - Present:** Promoted to the rank of Professor of Higher Education (PES), Faculty of Sciences Ben M'Sick, Hassan II University
-* **2022 - Present:** Head of Scientific Research Valorization and Technology Transfer (Responsible for strengthening scientific research and technology transfer) at FSBM / UH2C
-* **2020 - 2021:** Director of the Center for Innovation and Technology Transfer at Hassan II Casablanca University
-* **2020:** Coordinator for the SMI (Mathematics and Computer Science) and MIP (Mathematics, Computer Science and Physics) fields at FSBM / UH2C
-* **2017:** Full Professor (University Habilitation) at FSBM / UH2C
-* **December 2007 - 2017:** Professor at the Faculty of Sciences Ben M'Sick, Hassan II University
-* **Past Term:** Vice-Dean in charge of Scientific Research, Faculty of Sciences Ben M'Sick (FSBM / UH2C)
+* **December 2023 - Present:** Professor of Higher Education (PES), Faculty of Sciences Ben M'Sick, Hassan II University
+* **2022 - Present:** Head of Scientific Research Valorization and Technology Transfer, FSBM / UH2C
+* **2020 - 2021:** Director of the Center for Innovation and Technology Transfer, Hassan II Casablanca University
+* **2020:** Coordinator for the SMI (Mathematics and Computer Science) and MIP (Mathematics, Computer Science and Physics) fields, FSBM / UH2C
+* **2017:** Full Professor (University Habilitation), FSBM / UH2C
+* **December 2007 - 2017:** Professor, Faculty of Sciences Ben M'Sick, Hassan II University
+* **Past term:** Vice-Dean in charge of Scientific Research, Faculty of Sciences Ben M'Sick (FSBM / UH2C)
+
+---
+## Selected leadership, awards, and professional engagement
+* **March 8, 2026:** Founder and President of TechHer Morocco
+* **May 6 - 10, 2024:** DIGINNOV24 International Competition, First Prize
+* **March 8, 2024:** Organizer, International Women's Day event
+* **June 4, 2024:** Organizer, Job Days Forum
+* **February 28, 2024:** Organizer, Cyberfeminism event
+* **December 27, 2023:** Organizer, Internship preparation event
+* **December 13, 2023:** Organizer, IT Forum
+* **October 26, 2023:** Organizer, Atlas Hack
+* **Since 2023:** Mentor, AI & Dev Community Club
+* **Since 2023:** Vice-President, Najm Foundation
+* **August 2023:** Member, African universities delegation in China
+* **January - February 2023:** IVLP USA, Women in STEAM Entrepreneurship
+* **Since 2022:** Ambassador of SNAEIA
+* **Since 2020:** Mentor, Soft Skills Club
+* **Since 2016:** Founding member, ABC Math Info
+* **May 9, 2024:** Participant, China-Morocco cultural exchange event
 
 ---
 ## Technical Skills & Teaching Focus
@@ -58,11 +77,13 @@ Publications
 
 * [More...](/publications)
 
-Talks
+Selected talks and speaking engagements
 ======
-* [International Science Day 1st Edition A tandem for an innovative ecosystem](https://drive.google.com/file/d/1Jn6MA2IUP4XY9WXW04t1FjIYcx9h-s4f/view?usp=sharing).
+* **June 5 - 6, 2024:** Speaker and mentor, GITEX Africa.
+* **May 16, 2024:** Speaker, Digital Innovation Day.
+* [International Science Day 1st Edition: A tandem for an innovative ecosystem](https://drive.google.com/file/d/1Jn6MA2IUP4XY9WXW04t1FjIYcx9h-s4f/view?usp=sharing).
 
-* [University partnerships North Africa - china  Morocco-China case study](https://docs.google.com/presentation/d/1lzRWklawt3FaRmkiNUn7bEPuUSzW2Cpi/edit?usp=sharing&ouid=112245005000782117088&rtpof=true&sd=true).
+* [University partnerships North Africa - China: Morocco-China case study](https://docs.google.com/presentation/d/1lzRWklawt3FaRmkiNUn7bEPuUSzW2Cpi/edit?usp=sharing&ouid=112245005000782117088&rtpof=true&sd=true).
 
 * [The Moroccan city and the need for transformation in the era of the smart city](https://drive.google.com/file/d/1wpPF39CWVEg-QXyMa21XUicffiHEct6H/view?usp=sharing).
   
@@ -72,15 +93,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Community work
+Community leadership
 ====
-* Founder & Head
-  * The AI ​​Club and Dev Community FSBM.
-* Ambassador 
-  * The SNAEIA Association.
-* Founder
-  * The FSBM Soft Skills Club.
-* Vice President
-  * The Najm Association.
-* Co-Founder
-  * The ABC Math info Association
+* Founder & Head, AI & Dev Community Club, FSBM
+* Ambassador, SNAEIA Association
+* Founder, FSBM Soft Skills Club
+* Vice President, Najm Foundation
+* Co-Founder, ABC Math Info Association
