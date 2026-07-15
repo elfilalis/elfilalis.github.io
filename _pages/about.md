@@ -10,7 +10,7 @@ redirect_from:
 <div class="about-page">
   <section class="about-hero">
     <p class="about-kicker">Professor of Higher Education | Academic leader | Innovation advocate</p>
-    <h2>Professor Sanaa EL FILALI</h2>
+    <h2>Pr Sanaa EL FILALI</h2>
     <p class="about-summary">Vice-Dean in charge of Partnerships and Communication at the Faculty of Sciences Ben M'Sick, Hassan II University of Casablanca. Her work spans scientific research valorization, technology transfer, academic leadership, and student mentoring.</p>
 
     <div class="about-badges">
