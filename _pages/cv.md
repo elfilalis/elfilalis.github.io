@@ -212,7 +212,7 @@ redirect_from:
     <li class="cv-award-item">
       <span class="cv-award__date">May 2024</span>
       <div>
-        <p class="cv-award__title">Participant — China-Morocco Cultural Exchange Event</p>
+        <p class="cv-award__title">Organizer — China-Morocco Cultural Exchange Event</p>
       </div>
     </li>
   </ul>
