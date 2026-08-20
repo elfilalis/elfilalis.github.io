@@ -36,7 +36,10 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 1.15;
+  font-family: 'Lora', Georgia, serif;
+  color: #1a2744;
+  letter-spacing: -0.01em;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -51,8 +54,16 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.4em;
     border-bottom: 1px solid $border-color;
+    font-family: 'Lora', Georgia, serif;
+    color: #1a2744;
+  }
+
+  h3 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    color: $darker-gray;
   }
 
   p, li, dl {

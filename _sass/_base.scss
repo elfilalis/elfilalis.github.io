@@ -13,7 +13,10 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  font-size: 1rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -24,33 +27,44 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: $header-font-family;
   font-weight: bold;
 }
 
 h1 {
   margin-top: 0;
   font-size: $type-size-3;
+  font-family: $header-font-family; // Lora serif
+  color: $primary-color;
+  letter-spacing: -0.01em;
 }
 
 h2 {
   font-size: $type-size-4;
+  font-family: $header-font-family; // Lora serif
+  color: $primary-color;
+  letter-spacing: -0.01em;
 }
 
 h3 {
   font-size: $type-size-5;
+  font-family: $sans-serif; // Inter sans-serif
+  color: $darker-gray;
 }
 
 h4 {
   font-size: $type-size-6;
+  font-family: $sans-serif;
+  color: $darker-gray;
 }
 
 h5 {
   font-size: $type-size-6;
+  font-family: $sans-serif;
 }
 
 h6 {
   font-size: $type-size-6;
+  font-family: $sans-serif;
 }
 
 small, .small {
@@ -58,7 +72,8 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 1.25em;
+  line-height: 1.75;
 }
 
 u,

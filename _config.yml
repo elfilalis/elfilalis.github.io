@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sanaa EL FILALI"
 title_separator          : "-"
 name                     : &name "Sanaa EL FILALI"
-description              : &description "personal description"
+description              : &description "Professor of Higher Education and Vice-Dean at FSBM, Hassan II University of Casablanca. Researcher in AI, IoT, and Computer Vision."
 url                      : https://elfilalis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "elfilalis/elfilalis.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=peesMqoAAAAJ&hl=fr"
-  email            :
+  email            : "sanaa.elfilali@univh2c.ma"
   researchgate     :  "https://www.researchgate.net/profile/Sanaa-Filali"
   uri              :
   bitbucket        :
