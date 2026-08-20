@@ -119,7 +119,8 @@
 
   .about-page {
     display: grid;
-    gap: 1.5rem;
+    gap: 1.75rem;
+    margin-top: 0.5rem;
   }
 
   .about-hero,
@@ -127,24 +128,25 @@
   .about-contact,
   .about-card {
     border: 1px solid $border-color;
-    border-radius: 18px;
-    background: linear-gradient(180deg, #ffffff 0%, #fbfcfd 100%);
-    box-shadow: 0 18px 45px rgba(18, 38, 63, 0.08);
+    border-radius: 6px;
+    background: #ffffff;
+    box-shadow: 0 1px 4px rgba(26, 39, 68, 0.04);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
   }
 
   .about-hero {
-    padding: 2rem;
-    background:
-      radial-gradient(circle at top right, rgba($info-color, 0.14), transparent 38%),
-      linear-gradient(135deg, #ffffff 0%, #f6fbfe 100%);
+    padding: 2rem 2.25rem;
+    background: linear-gradient(135deg, #ffffff 0%, #f8fafd 100%);
+    border-left: 4px solid $primary-color;
   }
 
   .about-kicker {
-    margin-bottom: 0.75rem;
-    color: $info-color;
-    font-size: $type-size-6;
+    margin-bottom: 0.5rem;
+    color: $accent-color;
+    font-family: $sans-serif;
+    font-size: 0.75rem;
     font-weight: 700;
-    letter-spacing: 0.14em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
   }
 
@@ -152,135 +154,181 @@
   .about-hero h2 {
     margin-top: 0;
     margin-bottom: 0.75rem;
-    font-size: clamp(2rem, 4vw, 3.2rem);
-    line-height: 1.05;
+    font-family: $header-font-family;
+    color: $primary-color;
+    font-size: clamp(1.85rem, 3.5vw, 2.75rem);
+    line-height: 1.15;
     border-bottom: 0;
     padding-bottom: 0;
+    letter-spacing: -0.01em;
   }
 
   .about-summary {
     max-width: 52rem;
     margin-bottom: 1.25rem;
-    color: $darker-gray;
-    font-size: $type-size-4;
+    color: $dark-gray;
+    font-family: $sans-serif;
+    font-size: 1.05rem;
     line-height: 1.7;
   }
 
   .about-badges {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.75rem;
+    gap: 0.5rem;
 
     span {
       display: inline-flex;
       align-items: center;
-      padding: 0.55rem 0.9rem;
-      border: 1px solid rgba($info-color, 0.18);
-      border-radius: 999px;
-      background: rgba($info-color, 0.08);
-      color: $darker-gray;
-      font-size: $type-size-6;
+      padding: 0.35rem 0.75rem;
+      border: 1px solid rgba(26, 39, 68, 0.15);
+      border-radius: 4px;
+      background: #eef2f8;
+      color: $primary-color;
+      font-family: $sans-serif;
+      font-size: 0.78rem;
       font-weight: 600;
-      letter-spacing: 0.02em;
+      letter-spacing: 0.01em;
     }
   }
 
   .about-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 1.25rem;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
   }
 
   .about-card,
   .about-story,
   .about-contact {
-    padding: 1.5rem;
+    padding: 1.75rem;
+
+    &:hover {
+      border-color: rgba(26, 39, 68, 0.22);
+      box-shadow: 0 4px 14px rgba(26, 39, 68, 0.07);
+    }
   }
 
   .about-card--featured {
-    background: linear-gradient(180deg, rgba($info-color, 0.08) 0%, #ffffff 100%);
+    border-top: 3px solid $primary-color;
   }
 
   .about-card h2,
   .about-story h2,
   .about-contact h2 {
     margin-top: 0;
-    margin-bottom: 0.9rem;
+    margin-bottom: 0.85rem;
     border-bottom: 0;
     padding-bottom: 0;
-    font-size: $type-size-3;
+    font-family: $header-font-family;
+    color: $primary-color;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+
+  .about-story {
+    background: #f8f9fa;
   }
 
   .about-story p,
   .about-contact p,
   .about-card p {
-    color: $darker-gray;
-    line-height: 1.7;
+    color: $dark-gray;
+    font-family: $sans-serif;
+    font-size: 0.9375rem;
+    line-height: 1.65;
   }
 
   .about-list {
     margin: 0;
-    padding-left: 1.1rem;
+    padding-left: 1.2rem;
 
     li {
-      margin-bottom: 0.65rem;
+      margin-bottom: 0.55rem;
+      font-family: $sans-serif;
+      font-size: 0.9125rem;
       line-height: 1.6;
+      color: $dark-gray;
     }
   }
 
   .about-list--compact li {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.45rem;
   }
 
   .about-link-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.65rem;
-    margin-top: 1rem;
+    gap: 0.5rem;
+    margin-top: 1.15rem;
     margin-bottom: 0;
 
     a {
       display: inline-flex;
       align-items: center;
-      padding: 0.55rem 0.85rem;
-      border-radius: 999px;
+      padding: 0.35rem 0.85rem;
+      border-radius: 4px;
       background: #ffffff;
-      border: 1px solid $border-color;
+      border: 1.5px solid $primary-color;
+      color: $primary-color;
       text-decoration: none;
-      font-size: $type-size-6;
+      font-family: $sans-serif;
+      font-size: 0.78rem;
       font-weight: 600;
-      transition: $global-transition;
+      transition: all 0.15s ease-in-out;
 
       &:hover {
-        border-color: rgba($info-color, 0.4);
-        color: $info-color;
+        background: $primary-color;
+        color: #ffffff !important;
+        text-decoration: none;
         transform: translateY(-1px);
       }
     }
   }
 
   .about-grid--secondary {
-    margin-top: 0.25rem;
+    margin-top: 0;
   }
 
   .about-contact {
     text-align: center;
+    background: #f8f9fa;
+    border-top: 2px solid $primary-color;
+
+    h2 {
+      margin-bottom: 0.5rem;
+    }
 
     p {
       margin-bottom: 0;
-      font-size: $type-size-4;
+      font-size: 1.05rem;
+
+      a {
+        display: inline-block;
+        margin-top: 0.25rem;
+        padding: 0.5rem 1.25rem;
+        background: $primary-color;
+        color: #ffffff !important;
+        border-radius: 4px;
+        text-decoration: none !important;
+        font-weight: 600;
+        transition: background 0.15s ease;
+
+        &:hover {
+          background: $navy-mid;
+          text-decoration: none !important;
+        }
+      }
     }
   }
 
   @include breakpoint($small) {
-    .about-hero,
-    .about-card,
-    .about-story,
-    .about-contact {
-      padding: 1.75rem;
+    .about-hero {
+      padding: 2.25rem 2.5rem;
     }
   }
 }
+
 
 .page__hero {
   position: relative;
