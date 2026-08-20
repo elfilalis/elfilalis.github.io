@@ -87,12 +87,14 @@ redirect_from:
     <article class="about-card">
       <h2>Recent recognition</h2>
       <ul class="about-list about-list--compact">
+        <li>2026-07-27 to 2026-07-29: Competition Chair, China International College Students’ Innovation Competition (CICSIC 2026) – Morocco Regional Competition.</li>
         <li>2026-03-08: Founder and President of TechHer Morocco.</li>
         <li>2024-05-06 to 2024-05-10: First Prize, DIGINNOV24 International Competition.</li>
         <li>2024-03-08: Organizer of International Women's Day event.</li>
         <li>2023-01-23: Winner of the USA IVLP program: Women in Steam Entrepreneurship.</li>
       </ul>
     </article>
+
   </section>
 
   <section class="about-contact">

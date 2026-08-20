@@ -133,7 +133,15 @@ redirect_from:
 
   <ul class="cv-timeline">
     <li class="cv-award-item">
+      <span class="cv-award__date">July 27–29, 2026</span>
+      <div>
+        <p class="cv-award__title">Competition Chair — China International College Students’ Innovation Competition (CICSIC 2026) – Morocco Regional Competition</p>
+        <p class="cv-award__desc">Chaired the Morocco Regional Competition at the Faculty of Sciences Ben M’Sick (Hassan II University of Casablanca), uniting students, researchers, entrepreneurs, industry leaders, and academic partners from Morocco, China, Europe, and Africa to foster entrepreneurship and strengthen international university-industry collaboration.</p>
+      </div>
+    </li>
+    <li class="cv-award-item">
       <span class="cv-award__date">March 2026</span>
+
       <div>
         <p class="cv-award__title">Founder &amp; President — TechHer Morocco</p>
         <p class="cv-award__desc">Established a new organization supporting women in technology and STEAM in Morocco.</p>
